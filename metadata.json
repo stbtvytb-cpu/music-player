@@ -1,0 +1,6 @@
+{
+  "name": "YT SoundMax - Android Music Player & DSP Sound System",
+  "description": "Pemutar musik Android dengan audio engine berkarakter YouTube Music: dentuman bas bertenaga, clarity jernih seimbang, dan 7-band DSP Equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
